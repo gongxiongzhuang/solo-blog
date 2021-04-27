@@ -11,7 +11,6 @@
 ### 最新
 
 * [2021年第一篇](http://laog.net/articles/2021/04/26/1619422327906.html)
-* [我在 GitHub 上的开源项目](http://laog.net/my-github-repos)
 * [什么是线程安全？在什么场景下需要用到synchronized，lock，redis 分布式锁？](http://laog.net/articles/2019/05/29/1559130598031.html)
 * [java多线程及线程池的使用](http://laog.net/articles/2019/05/10/1557481138414.html)
 * [spring boot 2.1.3 使用mybatis redis cache 缓存](http://laog.net/articles/2019/03/28/1553769026833.html)
